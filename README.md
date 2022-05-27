@@ -1,2 +1,4 @@
-# hackerrank-dp-10
-10 Medium + 10 Hard Dynamic Problems from HackerRank Algorithms 
+### Hackerrank DP solutions 
+
+- Medium (Top 10/39 problems)
+- Hard (Top 10/60 problems)
